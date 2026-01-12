@@ -71,8 +71,18 @@ GitHub Actions workflows for automated security scanning. Template for integrati
 ## 📊 Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D-Stap&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Stap&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/D-Stap">
+    <img src="https://github-readme-stats.vercel.app/api?username=D-Stap&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/D-Stap">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Stap&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/D-Stap">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Stap&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
