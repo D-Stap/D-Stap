@@ -2,7 +2,7 @@ I work with AWS infrastructure and security tooling. This is where I share proje
 
 ## 🔗 Find me elsewhere
 - 🌐 [dafantestapletonresume.link](https://dafantestapletonresume.link) 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dafantestapleton)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dafante-stapleton)
 
 ---
 
