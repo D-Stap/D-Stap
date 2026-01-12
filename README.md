@@ -31,33 +31,40 @@ Languages:  Python, HCL, YAML, Bash
 ### [Cloud Resume](https://github.com/D-Stap/Cloud-Resume) | [Live](https://dafantestapletonresume.link)
 Serverless resume site built with AWS. Started as a learning project, turned into something I actually maintain and improve.
 
-**Stack:** S3 + CloudFront + API Gateway + Lambda + DynamoDB  
-**IaC:** AWS SAM templates  
-**Features:** Custom domain, visitor counter, automated deployments
+**Stack:** S3 + CloudFront + API Gateway + Lambda + DynamoDB.  
+**IaC:** AWS SAM templates.  
+**Features:** Custom domain, visitor counter, automated deployments.
 
 ### [IAM Privilege Checker](https://github.com/D-Stap/iam-privilege-checker)
 Python CLI for analyzing IAM policies. Got tired of manually reviewing policies for wildcards and dangerous permissions, so I built this.
 
-**What it does:** Scans JSON policies, flags risky patterns, suggests improvements  
-**Usage:** Can run standalone or integrate into CI pipelines
+**What it does:** Scans JSON policies, flags risky patterns, suggests improvements.  
+**Usage:** Can run standalone or integrate into CI pipelines.
 
 ### [AWS Secure Environment](https://github.com/D-Stap/aws-secure-env)
 Terraform modules for setting up secure AWS infrastructure. Collection of patterns I use regularly.
 
-**Components:** VPC setup, security groups, logging configuration  
-**Focus:** Security baselines, compliance-ready configurations
+**Components:** VPC setup, security groups, logging configuration.  
+**Focus:** Security baselines, compliance-ready configurations.
 
 ### [Security Evidence Collector](https://github.com/D-Stap/security-evidence-collector)
 Tool that runs multiple security scanners and normalizes the output. Useful for compliance reporting and tracking security posture over time.
 
-**Integration:** Checkov, tfsec, Semgrep, custom scanners  
-**Output:** Structured reports, baseline comparisons
+**Integration:** Checkov, tfsec, Semgrep, custom scanners.  
+**Output:** Structured reports, baseline comparisons.
 
 ### [Security Pipeline](https://github.com/D-Stap/security-pipeline)
 GitHub Actions workflows for automated security scanning. Template for integrating security checks into development workflows.
 
-**Coverage:** Infrastructure code, container images, application code  
-**Approach:** Fail fast on security issues, detailed reporting
+**Coverage:** Infrastructure code, container images, application code.
+**Approach:** Fail fast on security issues, detailed reporting.
+
+### [Terraform Modules](https://github.com/D-Stap/terraform-modules)
+Reusable AWS infrastructure components with security and cost optimization built in.  
+
+**Components:** ECR repositories, S3 buckets, Cognito user pools, VPC security groups and continuing to add more.
+**Focus:** Environment-aware retention, encryption by default, developer productivity.
+
 
 ---
 
