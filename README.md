@@ -1,4 +1,14 @@
+
+[![Live Resume](https://img.shields.io/badge/Live%20Resume-grey?style=flat&labelColor=red&logo=readthedocs)](https://dafantestapletonresume.link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dafante-stapleton/)
+[![GitHub](https://img.shields.io/badge/Profile-grey?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/D-Stap)
+[![Credly](https://img.shields.io/badge/Credly-grey?style=flat&labelColor=FF6B00&logo=credly&logoColor=white)](https://www.credly.com/users/dafante-stapleton)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:dafante.e.stapleton.com)
+
+
+
 I work with AWS infrastructure and security tooling. This is where I share projects, experiment with new tech, and build tools that make my work easier.
+
 
 ## 🔗 Find me elsewhere
 - 🌐 [dafantestapletonresume.link](https://dafantestapletonresume.link) 
@@ -47,18 +57,6 @@ Terraform modules for setting up secure AWS infrastructure. Collection of patter
 **Components:** VPC setup, security groups, logging configuration.  
 **Focus:** Security baselines, compliance-ready configurations.
 
-### [Security Evidence Collector](https://github.com/D-Stap/security-evidence-collector)
-Tool that runs multiple security scanners and normalizes the output. Useful for compliance reporting and tracking security posture over time.
-
-**Integration:** Checkov, tfsec, Semgrep, custom scanners.  
-**Output:** Structured reports, baseline comparisons.
-
-### [Security Pipeline](https://github.com/D-Stap/security-pipeline)
-GitHub Actions workflows for automated security scanning. Template for integrating security checks into development workflows.
-
-**Coverage:** Infrastructure code, container images, application code.
-**Approach:** Fail fast on security issues, detailed reporting.
-
 ### [Terraform Modules](https://github.com/D-Stap/terraform-modules)
 Reusable AWS infrastructure components with security and cost optimization built in.  
 
@@ -79,16 +77,9 @@ Reusable AWS infrastructure components with security and cost optimization built
 
 ## 🤝 Community
 
-I'm interested in connecting with others working on:
-- Cloud security and compliance automation
-- Infrastructure as code best practices  
-- DevSecOps tooling and workflows
-- Cost-effective AWS architectures
-
 Feel free to check out my projects, open issues, or reach out if you're working on similar problems.
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=D-Stap&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=D-Stap&color=green&style=flat-square" alt="Profile Views" />
 </div>
